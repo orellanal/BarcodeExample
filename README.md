@@ -1,3 +1,2 @@
 # BarcodeExample
-Honeywell CT50 Device
-Barcode Reader Test
+CT50 Barcode Reader Test
