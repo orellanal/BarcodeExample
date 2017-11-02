@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/source/BarcodeExample/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/source/BarcodeExample/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,5,6,7,12,11,4,8,9,13,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,160,204,270,593,551,109,330,425,636,502",
+                        "endColumns": "52,43,65,59,42,41,50,94,76,50,48",
+                        "endOffsets": "104,199,265,325,631,588,155,420,497,682,546"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,152,218,278,313,347,398,493,570,621",
+                        "endColumns": "52,43,65,59,34,33,50,94,76,50,48",
+                        "endOffsets": "103,147,213,273,308,342,393,488,565,616,665"
+                    }
+                },
+                {
+                    "source": "/opt/source/BarcodeExample/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "670,961",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "956,1116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/opt/source/BarcodeExample/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

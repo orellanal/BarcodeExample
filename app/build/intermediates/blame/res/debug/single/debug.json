@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/drawable-xhdpi_barcode_example_icon.png.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/drawable-xhdpi/barcode_example_icon.png"
+    },
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/drawable-mdpi_barcode_example_icon.png.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/drawable-mdpi/barcode_example_icon.png"
+    },
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/drawable-hdpi_barcode_example_icon.png.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/drawable-hdpi/barcode_example_icon.png"
+    },
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/layout_activity_barcode.xml.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/layout/activity_barcode.xml"
+    },
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/drawable-ldpi_barcode_example_icon.png.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/drawable-ldpi/barcode_example_icon.png"
+    },
+    {
+        "merged": "/opt/source/BarcodeExample/app/build/intermediates/res/merged/debug/menu_activity_main.xml.flat",
+        "source": "/opt/source/BarcodeExample/app/src/main/res/menu/activity_main.xml"
+    }
+]
